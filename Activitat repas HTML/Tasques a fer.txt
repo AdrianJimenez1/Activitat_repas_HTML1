@@ -1,0 +1,10 @@
+Modificacions que heu de fer:
+
+- Afegir les imatges que están a la carpeta 'imagenes'
+- Fer les imatges que tenguin la meteixa mida (200px d'ample y 300px d'alt)
+- Posar una imatge com a logo (podeu utilizar la imatge chill.jpg)
+- Craer una taula on les vores tinguin 4px de gruix
+- El text dins la taula ha d'estar a l'esquerra dins la casella
+- Afegir 3 enllaços a la secció 'Enlaces rápidos'
+- Canviar el color del 'header' a un to Vermell
+- Crear un formulari on es demani el nom, el correu electrònic i un missatge
